@@ -25,7 +25,6 @@
         <EditText
             android:textSize="12sp"
             android:id="@+id/edit_rtmp"
-            android:hint="rtmp://live.gaobohuike.com/hls/433444"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
