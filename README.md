@@ -5,3 +5,5 @@
 > - 可自定义码率和帧率
 > - 可选择编码质量，720p效果不太理想，后续解决
 > - 未整合音频后续解决
+#### 设置界面
+<img src="https://github.com/Aoyihala/img/blob/master/testffmpeg/home.png?raw=true"><img>
